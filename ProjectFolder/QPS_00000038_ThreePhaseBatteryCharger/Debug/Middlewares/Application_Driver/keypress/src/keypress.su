@@ -1,0 +1,5 @@
+keypress.c:17:6:keypressInit	4	static
+keypress.c:21:6:CommandLoop	24	static
+keypress.c:54:6:updateCommand	24	static
+keypress.c:115:6:synchronizeCommands	16	static
+keypress.c:133:6:acquire_appl_keydemand	4	static

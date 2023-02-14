@@ -1,0 +1,11 @@
+eeprom.c:41:6:vishwaEEp_Init	8	static
+eeprom.c:49:6:Update_Usage_hour_eep	4	static
+eeprom.c:70:6:Update_RunningTime_eep	8	static
+eeprom.c:93:6:WriteEEPData	24	static
+eeprom.c:104:6:MapStEEPtoVishwastruct	16	static
+eeprom.c:136:15:MapExteepToVishwaStruct	32	static
+eeprom.c:199:6:MapVishwaStructToExteep	24	static
+eeprom.c:231:6:ReadEEPData	16	static
+eeprom.c:250:6:MapVishwastructtoEEP	12	static
+eeprom.c:282:6:CaptureExtEEPSnapshot_SingleShot	32	static
+eeprom.c:344:6:ResetRecords	4	static

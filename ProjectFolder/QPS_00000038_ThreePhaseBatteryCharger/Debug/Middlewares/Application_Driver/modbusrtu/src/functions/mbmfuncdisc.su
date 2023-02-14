@@ -1,0 +1,2 @@
+mbmfuncdisc.c:49:1:vMBMReadDiscreteInputsPolled	40	static
+mbmfuncdisc.c:177:1:eMBMReadDiscreteInputs	48	static

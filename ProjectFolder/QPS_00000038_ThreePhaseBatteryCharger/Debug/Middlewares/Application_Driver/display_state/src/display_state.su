@@ -1,0 +1,13 @@
+display_state.c:57:6:SM_DispInit	8	static
+display_state.c:60:6:DisplayLoop	16	static
+display_state.c:206:12:WritePageID	16	static
+display_state.c:229:12:ReadPageID	24	static
+display_state.c:258:12:DGUS_UpdateWriteVariables	16	static
+display_state.c:327:12:DGUS_UpdateWritefloatVariables	16	static
+display_state.c:373:12:DGUS_updatePauseReason	24	static
+display_state.c:548:12:DGUS_updateSelfTestText	24	static
+display_state.c:751:12:DGUS_updateMessages	4	static
+display_state.c:798:12:UpdateReadVariables	16	static
+display_state.c:840:12:DGUS_Reset	8	static
+display_state.c:855:12:StartAnimation	8	static
+display_state.c:869:7:movingAvgFlt	24	static

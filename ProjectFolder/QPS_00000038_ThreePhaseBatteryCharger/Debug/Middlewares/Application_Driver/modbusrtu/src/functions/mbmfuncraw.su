@@ -1,0 +1,2 @@
+mbmfuncraw.c:44:1:vMBMReadWriteRAWPDUPolled	32	static
+mbmfuncraw.c:141:1:eMBMReadWriteRAWPDU	56	static

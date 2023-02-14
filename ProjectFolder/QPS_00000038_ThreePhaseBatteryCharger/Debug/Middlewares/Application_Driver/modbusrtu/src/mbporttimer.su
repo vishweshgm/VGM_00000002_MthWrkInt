@@ -1,0 +1,7 @@
+mbporttimer.c:60:1:eMBPTimerInit	32	static
+mbporttimer.c:116:1:vMBPTimerClose	24	static
+mbporttimer.c:127:1:eMBPTimerSetTimeout	24	static
+mbporttimer.c:144:1:eMBPTimerStart	24	static
+mbporttimer.c:166:1:eMBPTimerStop	24	static
+mbporttimer.c:183:13:prvvTimerISR	16	static
+mbporttimer.c:205:6:MBMTIM_IRQHandler	8	static

@@ -1,0 +1,3 @@
+mbportother.c:30:1:vMBPAssert	16	static
+mbportother.c:39:1:vMBPEnterCritical	4	static
+mbportother.c:57:1:vMBPExitCritical	4	static

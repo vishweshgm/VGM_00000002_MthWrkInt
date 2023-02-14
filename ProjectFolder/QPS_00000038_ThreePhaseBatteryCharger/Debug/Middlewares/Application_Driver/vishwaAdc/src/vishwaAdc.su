@@ -1,0 +1,11 @@
+vishwaAdc.c:70:6:VishwaAdcInit	8	static
+vishwaAdc.c:91:10:ADC_normal_avg	16	static
+vishwaAdc.c:106:10:ADC_filter_noise	16	static
+vishwaAdc.c:145:7:movingAvg	24	static
+vishwaAdc.c:155:6:Appl_fncCalculateFeedbackShuntCurrent	8	static
+vishwaAdc.c:176:6:Appl_fncCalculateFeedbackHallCurrent	4	static
+vishwaAdc.c:206:10:findpeak	24	static
+vishwaAdc.c:220:6:HAL_ADC_ConvCpltCallback	16	static
+vishwaAdc.c:237:6:Appl_fncCalculateFeedbackVoltage	8	static
+vishwaAdc.c:267:6:RectifiedSineAnalyzer	16	static
+vishwaAdc.c:284:6:RectifiedSineAnalyzer_Config	24	static

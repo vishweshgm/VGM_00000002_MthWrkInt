@@ -1,0 +1,4 @@
+mbmfuncfiles.c:68:1:vMBMReadFileRecordPolled	48	static
+mbmfuncfiles.c:278:1:eMBMReadFileRecord	48	static
+mbmfuncfiles.c:297:1:vMBMWriteFileRecordPolled	48	static
+mbmfuncfiles.c:528:1:eMBMWriteFileRecord	40	static
