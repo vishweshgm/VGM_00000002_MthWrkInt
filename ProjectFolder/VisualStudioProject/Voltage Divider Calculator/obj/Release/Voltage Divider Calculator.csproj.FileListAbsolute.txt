@@ -1,0 +1,11 @@
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\bin\Release\Voltage Divider Calculator.exe.config
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\bin\Release\Voltage Divider Calculator.exe
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\bin\Release\Voltage Divider Calculator.pdb
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage Divider Calculator.csproj.AssemblyReference.cache
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage Divider Calculator.csproj.SuggestedBindingRedirects.cache
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage_Divider_Calculator.Form1.resources
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage_Divider_Calculator.Properties.Resources.resources
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage Divider Calculator.csproj.GenerateResource.cache
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage Divider Calculator.csproj.CoreCompileInputs.cache
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage Divider Calculator.exe
+E:\vishwesh\QPS_00000044_SFTVoltageDivider\ProjectFolder\workspace\Voltage Divider Calculator\obj\Release\Voltage Divider Calculator.pdb

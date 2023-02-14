@@ -58,28 +58,7 @@ void SM_DrawTask(u8g2_t *u8g2, uint8_t loopms){
 
 
 	FilterCurrent_forLogging();
-	if(SM_enumDisplayState == SM_enum_Display_POWERON_LOGO){
-		timer_logo++;
-		if(timer_logo < ((2000*4)/loopms)){
-			u8g2_SetFont(u8g2, u8g2_font_nokiafc22_tu);
-			u8g2_DrawStr(u8g2, 0,10,"BATTERY");
-			u8g2_DrawStr(u8g2, 1,20,"REJUVENATOR");
-			u8g2_DrawStr(u8g2, 1,30,"DESIGNED FOR : ");
-			u8g2_DrawStr(u8g2, 1,40,"ALACRITAS SOLUTIONS");
-			u8g2_DrawStr(u8g2, 1,50,"PVT LTD");
-			u8g2_DrawStr(u8g2, 1,60,"BENGALURU");
-		}
-		else{
-			u8g2_SetFont(u8g2, u8g2_font_VCR_OSD_mu);/*15pixelheight*/
-			u8g2_DrawStr(u8g2, 0,16,"QUAD POWER");
-			u8g2_DrawStr(u8g2, 0,32,"SYSTEMS");
-			u8g2_SetFont(u8g2, u8g2_font_profont11_tf);/*7pixelheight*/
-			u8g2_DrawStr(u8g2, 0,48,"BENGALURU,INDIA");
-			u8g2_DrawStr(u8g2, 0,60,"www.qpowersys.com");
-//			splashScreen(u8g2);
-//			u8g2_DrawBitmap(u8g2, 0, 0, 16, 64, image_data_qps_logo);
-		}
-	}
+	if(SM_enumDisplayState == SM_enum_Display_POWERON_LOGO){/*CONF*/}
 
 	if(SM_enumDisplayState == SM_enum_Display_MAIN_MENU){
 		u8g2_SetFont(u8g2, u8g2_font_5x7_tr);
@@ -98,15 +77,7 @@ void SM_DrawTask(u8g2_t *u8g2, uint8_t loopms){
 			strcpy(display_buf3, " ");
 			Fnlocal_u8dispint = (uint8_t)round(Appl_EEPParam.stm32.EEP_CustomerNumber);
 		}
-		else if(Appl_Display.SelectedIndexIntheList == 2){
-			u8g2_SetFont(u8g2, u8g2_font_5x8_tr);
-			u8g2_UserInterfaceSelectionList(u8g2, "Battery Re-life cycle",Appl_EEPParam.stm32.EEP_RejuvenationCycleID,\
-					"1. INITIAL CHARGE\n2. REJUVENATION 1\n3. EQ1\n4. REJUVENATION 2\n5. EQ2\n6. FINAL CHARGE");
-			if(Appl_EEPParam.stm32.EEP_RejuvenationCycleID < 6){
-				u8g2_SetFont(u8g2,u8g2_font_unifont_t_symbols);
-				u8g2_DrawGlyph(u8g2, 1, 52, 0x25BE);
-			}
-		}
+		else if(Appl_Display.SelectedIndexIntheList == 2){/*CONF*/}
 		else if(Appl_Display.SelectedIndexIntheList == 3){
 			u8g2_SetFont(u8g2, u8g2_font_5x8_tr);
 			strcpy(display_buf, "SET CURRENT");

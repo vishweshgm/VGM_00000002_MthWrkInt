@@ -10,7 +10,7 @@
 
 /*DONOT FORGET TO ERASE EEP ONCE AFTER FLASH*/
 
-#define ALACRITAS_UNIT_NUMBER							(1)
+
 #define OVERCURRENT_ADMIN_VALUE							70.0
 #define UNDERVOLTAGE_ADMIN_VALUE						48.0
 #define INC(x,max,inc) 									x = (x<=(max - inc))?(x+inc):max
