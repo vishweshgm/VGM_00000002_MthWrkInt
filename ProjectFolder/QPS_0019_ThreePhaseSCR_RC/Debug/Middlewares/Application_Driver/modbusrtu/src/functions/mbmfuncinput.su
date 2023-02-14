@@ -1,0 +1,2 @@
+mbmfuncinput.c:45:1:vMBMReadInputRegistersPolled	32	static
+mbmfuncinput.c:173:1:eMBMReadInputRegisters	40	static

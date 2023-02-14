@@ -1,0 +1,8 @@
+mbmfuncholding.c:65:1:vMBMWriteSingleRegisterPolled	32	static
+mbmfuncholding.c:186:1:vMBMReadHoldingRegistersPolled	32	static
+mbmfuncholding.c:313:1:vMBMWriteMultipleRegistersPolled	32	static
+mbmfuncholding.c:464:1:vMBMReadWriteMultipleRegistersPolled	32	static
+mbmfuncholding.c:628:1:eMBMWriteSingleRegister	40	static
+mbmfuncholding.c:644:1:eMBMReadHoldingRegisters	40	static
+mbmfuncholding.c:662:1:eMBMWriteMultipleRegisters	40	static
+mbmfuncholding.c:680:1:eMBMReadWriteMultipleRegisters	48	static

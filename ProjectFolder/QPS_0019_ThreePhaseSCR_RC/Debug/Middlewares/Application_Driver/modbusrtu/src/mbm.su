@@ -1,0 +1,9 @@
+mbm.c:122:1:bMBMIsHdlValid	16	static
+mbm.c:130:26:pxMBMGetNewHdl	24	static
+mbm.c:184:1:eMBMReleaseHdl	24	static
+mbm.c:231:1:bMBMResponseTimeoutCB	32	static
+mbm.c:280:1:eMBMSetSlaveTimeout	24	static
+mbm.c:300:1:eMBMClose	24	static
+mbm.c:325:1:vMBMMasterTransactionPolled	32	static
+mbm.c:477:1:eMBMSerialInit	40	static
+mbm.c:487:1:eMBMSerialInitExt	48	static

@@ -1,0 +1,2 @@
+vishwaModbus.c:38:6:vishwaModbusInit	16	static
+vishwaModbus.c:42:6:vishwaModbusLoop	24	static

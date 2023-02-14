@@ -1,0 +1,3 @@
+mbutils.c:31:1:usUtlCRC16GetTab	24	static
+mbutils.c:57:1:prvCRC16Update	24	static
+mbutils.c:72:1:eMBExceptionToErrorcode	24	static

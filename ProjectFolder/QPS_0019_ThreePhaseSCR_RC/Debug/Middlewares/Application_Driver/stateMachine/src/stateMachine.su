@@ -1,0 +1,17 @@
+stateMachine.c:98:6:SM_ECUInit	8	static
+stateMachine.c:160:6:SM_StateMachineHandler	32	static
+stateMachine.c:721:6:SM_10msTask	8	static
+stateMachine.c:726:6:HAL_GPIO_EXTI_Callback	24	static
+stateMachine.c:878:20:ScheduleTrigger	16	static
+stateMachine.c:957:6:TIM5_Callback	8	static
+stateMachine.c:1015:6:TIM6_Callback	8	static
+stateMachine.c:1035:6:TIM7_Callback	8	static
+stateMachine.c:1055:6:Appl_AdcPhaseAngleDetermination	8	static
+stateMachine.c:1081:7:PID_Current	16	static
+stateMachine.c:1096:6:delay_us	16	static
+stateMachine.c:1105:6:MonitorTemperature	4	static
+stateMachine.c:1114:6:SafeRunMonitoring	8	static
+stateMachine.c:1153:6:StartCurrentProvidingLoop	8	static
+stateMachine.c:1189:6:StopCurrentProvidingLoop	16	static
+stateMachine.c:1201:20:DisplayWindowSelection	4	static
+stateMachine.c:1283:6:switchOnBuzzer	8	static

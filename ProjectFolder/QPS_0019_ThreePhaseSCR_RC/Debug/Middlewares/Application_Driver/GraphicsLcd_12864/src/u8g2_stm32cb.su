@@ -1,0 +1,4 @@
+u8g2_stm32cb.c:13:9:u8x8_stm32_gpio_and_delay	24	static
+u8g2_stm32cb.c:38:6:u8g2Init	16	static
+u8g2_stm32cb.c:44:9:u8x8_byte_4wire_hw_spi	24	static
+u8g2_stm32cb.c:67:6:draw	16	static

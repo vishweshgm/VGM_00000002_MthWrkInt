@@ -1,0 +1,2 @@
+appl_diag.c:21:6:RunDiagnostics	8	static
+appl_diag.c:165:6:Run_Diagnostic_Actions	8	static

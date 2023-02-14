@@ -1,0 +1,12 @@
+display_state.c:38:6:SM_DispInit	8	static
+display_state.c:43:6:DisplayLoop	16	static
+display_state.c:50:6:SM_DrawTask	128	static
+display_state.c:372:20:Display_ErrorMessage	16	static
+display_state.c:396:20:Display_Buttons	32	static
+display_state.c:468:20:Display_Voltage	24	static
+display_state.c:493:20:Display_Current	64	static
+display_state.c:517:20:Display_RunningTime	56	static
+display_state.c:531:6:splashScreen	16	static
+display_state.c:535:6:FilterCurrent_forLogging	16	static
+display_state.c:544:6:SerialCommunication	24	static
+display_state.c:648:6:vishwa_u8g2drawcircleAnime	24	static

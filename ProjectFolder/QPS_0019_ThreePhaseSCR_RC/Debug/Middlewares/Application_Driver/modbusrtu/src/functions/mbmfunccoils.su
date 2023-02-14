@@ -1,0 +1,6 @@
+mbmfunccoils.c:63:1:vMBMReadCoilsPolled	40	static
+mbmfunccoils.c:188:1:vMBMWriteSingleCoilPolled	32	static
+mbmfunccoils.c:320:1:vMBMWriteCoilsPolled	48	static
+mbmfunccoils.c:466:1:eMBMReadCoils	48	static
+mbmfunccoils.c:483:1:eMBMWriteSingleCoil	32	static
+mbmfunccoils.c:499:1:eMBMWriteCoils	48	static

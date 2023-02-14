@@ -1,0 +1,4 @@
+mbportevent.c:47:1:eMBPEventCreate	24	static
+mbportevent.c:80:1:eMBPEventPost	24	static
+mbportevent.c:96:1:bMBPEventGet	24	static
+mbportevent.c:116:1:vMBPEventDelete	24	static

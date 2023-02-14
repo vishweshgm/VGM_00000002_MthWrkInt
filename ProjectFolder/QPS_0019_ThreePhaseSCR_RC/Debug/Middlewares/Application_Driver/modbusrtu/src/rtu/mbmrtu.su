@@ -1,0 +1,10 @@
+mbmrtu.c:167:1:eMBMSerialRTUInit	56	static
+mbmrtu.c:319:1:eMBMSerialRTUFrameIsTransmitting	32	static
+mbmrtu.c:342:1:eMBMSerialRTUFrameSend	32	static
+mbmrtu.c:460:1:eMBMSerialRTUFrameReceive	40	static
+mbmrtu.c:591:1:eMBMSerialRTUFrameClose	24	static
+mbmrtu.c:608:1:eMBMSerialRTUFrameCloseInternal	24	static
+mbmrtu.c:662:1:bMBMSerialRTUReceiverAPIV1CB	32	static
+mbmrtu.c:727:1:bMBMSerialRTUTransmitterEmptyAPIV1CB	32	static
+mbmrtu.c:970:1:bMBMSerialRTUT35CB	32	static
+mbmrtu.c:1006:1:bMBMSerialWaitCB	32	static

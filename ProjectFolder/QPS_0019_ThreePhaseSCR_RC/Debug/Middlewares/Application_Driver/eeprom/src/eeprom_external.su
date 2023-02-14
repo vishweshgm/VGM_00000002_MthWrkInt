@@ -1,0 +1,8 @@
+eeprom_external.c:47:10:bytestowrite	16	static
+eeprom_external.c:59:14:EEPROM_Write	64	static
+eeprom_external.c:100:6:float2Bytes	24	static
+eeprom_external.c:115:7:Bytes2float	32	static
+eeprom_external.c:137:6:EEPROM_Write_NUM	32	static
+eeprom_external.c:151:7:EEPROM_Read_NUM	32	static
+eeprom_external.c:168:14:EEPROM_Read	64	static
+eeprom_external.c:202:14:EEPROM_PageErase	296	static
